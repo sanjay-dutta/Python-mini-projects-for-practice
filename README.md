@@ -1,4 +1,4 @@
-# Python script to automate an Excel sheet:
+# Python Mini Projects for practice
 
 
-It will take too long to process or update thousands of spreadsheets manually. It could take several days, weeks, or even months. To automate this process, we will create a Python programme and utilise a spreadsheet. We have records of all kinds of transactions in this spreadsheet, but let's imagine the pricing for the item indicated in the third column is incorrect owing to an error (human or systemic). Say we need to lower the cost by 10%. (Multiply the price by 0.9 and recalculate the value). If there are thousands of records, you can perform this work manually by using the mathematical formula in the fourth column, but it will take too long (perhaps a week or two). To automate this procedure, a Python application will be written. We'll also include a chart with it. This task will be completed for us in a matter of seconds by our Python application.
+A collection of simple python mini projects to enhance the Python skills
