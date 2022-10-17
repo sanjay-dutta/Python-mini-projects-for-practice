@@ -3,6 +3,7 @@ Weight=float(input("Enter your Weight in Kg: "))
 Height = Height/100
 BMI=Weight/(Height*Height)
 print("your Body Mass Index is: ",BMI)
+# Conditions to find out BMI category
 if(BMI>0):
 	if(BMI<=16):
 		print("you are severely underweight")
